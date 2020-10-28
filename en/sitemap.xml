@@ -48,6 +48,21 @@
   </url>
   
   <url>
+    <loc>https://sumant-eng.github.io/contact/</loc>
+    <lastmod>2020-09-15T20:08:43+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ms"
+                href="https://sumant-eng.github.io/ms/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sumant-eng.github.io/contact/"
+                />
+  </url>
+  
+  <url>
     <loc>https://sumant-eng.github.io/lesson/botvinnik/</loc>
     <lastmod>2020-09-15T09:40:22+08:00</lastmod>
     <xhtml:link
@@ -59,6 +74,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://sumant-eng.github.io/lesson/botvinnik/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://sumant-eng.github.io/about/</loc>
+    <lastmod>2020-09-14T21:07:06+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ms"
+                href="https://sumant-eng.github.io/ms/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sumant-eng.github.io/about/"
                 />
   </url>
   

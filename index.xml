@@ -22,6 +22,17 @@
     </item>
     
     <item>
+      <title>Contact</title>
+      <link>https://sumant-eng.github.io/contact/</link>
+      <pubDate>Tue, 15 Sep 2020 20:08:43 +0800</pubDate>
+      
+      <guid>https://sumant-eng.github.io/contact/</guid>
+      <description>input[type=&#34;text&#34;], select, textarea { width: 100%; padding: 12px; border: 1px solid #ccc; border-radius: 4px; box-sizing: border-box; margin-top: 6px; margin-bottom: 16px; resize: vertical; } input[type=&#34;submit&#34;] { background-color: #4caf50; color: white; padding: 12px 20px; border: none; border-radius: 4px; cursor: pointer; } input[type=&#34;submit&#34;]:hover { background-color: #45a049; } .container { border-radius: 5px; }  Name Email Origin Subject     Office:
+Suite 15-13A, Ceylonz Suites @ Bukit Ceylon,
+No.3, Persiaran Raja Chulan, Bukit Kewangan,</description>
+    </item>
+    
+    <item>
       <title>Botvinnik</title>
       <link>https://sumant-eng.github.io/lesson/botvinnik/</link>
       <pubDate>Tue, 15 Sep 2020 09:40:22 +0800</pubDate>
@@ -30,6 +41,18 @@
       <description>Mikhail Botvinnik, Russia 1972
   About this course Mikhail Botvinnik The world champion that perfected the scientific method of chess. A world champion who was at the top of the world for nearly 30 years! He held the world champion title for the second longest period of time, only behind Kasparov.
 In this course “How to play like Mikhail Botvinnik”, you will learn how to maintain a small and compact opening repertoire that focuses on depth of variations and how to derive examples from the play of others in similar situations to maintain familiarity of the resulting positions however your opponent chooses to play.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://sumant-eng.github.io/about/</link>
+      <pubDate>Mon, 14 Sep 2020 21:07:06 +0800</pubDate>
+      
+      <guid>https://sumant-eng.github.io/about/</guid>
+      <description>About I am currently working on chess development for improving players.
+I learned how to play chess when I was seven years old. I have played in many competitions since then.
+My best success was winning the Malaysian Masters in 2016. It was the toughest chess competition in the country where ten of the strongest national players are competing in a 9-round tournament.
+By retaining status as amongst the elite players in the country, I represented Malaysia three times at the World Chess Olympiad Championships.</description>
     </item>
     
     <item>
