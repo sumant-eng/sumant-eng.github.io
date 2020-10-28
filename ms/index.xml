@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sumant Chess</title>
+    <link>https://sumant-eng.github.io/ms/</link>
+    <description>Recent content on Sumant Chess</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ms-my</language>
+    <copyright>FM Sumant</copyright>
+    <lastBuildDate>Mon, 28 Sep 2020 19:53:01 +0800</lastBuildDate>
+    
+	<atom:link href="https://sumant-eng.github.io/ms/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Online</title>
+      <link>https://sumant-eng.github.io/ms/lesson/online/</link>
+      <pubDate>Mon, 28 Sep 2020 19:53:01 +0800</pubDate>
+      
+      <guid>https://sumant-eng.github.io/ms/lesson/online/</guid>
+      <description>Join our group for weekly lessons:   Day and time : Thursdays at 8.30 - 9.30 pm   Age group : 9-13   Level : 1200 &amp; above   Platform : Zoom   Fee : RM 100 per month    .box { display: flex; align-items: center; }   Click to enroll </description>
+    </item>
+    
+    <item>
+      <title>Botvinnik</title>
+      <link>https://sumant-eng.github.io/ms/lesson/botvinnik/</link>
+      <pubDate>Tue, 15 Sep 2020 09:40:22 +0800</pubDate>
+      
+      <guid>https://sumant-eng.github.io/ms/lesson/botvinnik/</guid>
+      <description>Mikhail Botvinnik, Russia 1972
+  About this course Mikhail Botvinnik The world champion that perfected the scientific method of chess. A world champion who was at the top of the world for nearly 30 years! He held the world champion title for the second longest period of time, only behind Kasparov.
+In this course “How to play like Mikhail Botvinnik”, you will learn how to maintain a small and compact opening repertoire that focuses on depth of variations and how to derive examples from the play of others in similar situations to maintain familiarity of the resulting positions however your opponent chooses to play.</description>
+    </item>
+    
+    <item>
+      <title>Tal</title>
+      <link>https://sumant-eng.github.io/ms/lesson/tal/</link>
+      <pubDate>Sun, 13 Sep 2020 12:39:53 +0800</pubDate>
+      
+      <guid>https://sumant-eng.github.io/ms/lesson/tal/</guid>
+      <description>Mikhail Tal, 1968
+  About this course Mikhail Tal This course &amp;ldquo;How to play like Mikhail Tal&amp;rdquo; will teach you how to develop your imagination and intuition in chess as well as improve your ability to calculate variations in complicated positions.
+I have been called the &amp;ldquo;Malaysian Tal&amp;rdquo; by many players. The 2 most popular games I have played which closely resemble Tal&amp;rsquo;s style of play are my games against Edward Lee in 2008 and against Perez Gormaz, Matias in 2016 where I seemed to pay no regard to material balance yet with the result ending in my favour.</description>
+    </item>
+    
+    <item>
+      <title>Capablanca</title>
+      <link>https://sumant-eng.github.io/ms/lesson/capablanca/</link>
+      <pubDate>Sun, 13 Sep 2020 12:05:13 +0800</pubDate>
+      
+      <guid>https://sumant-eng.github.io/ms/lesson/capablanca/</guid>
+      <description>Jose Raul Capablanca
+  About this course Jose Raul Capablanca In this course “How to play like Capablanca” you will learn to master simple positions.
+A chess prodigy from Cuba, Capablanca is widely known for his amazing endgame skills and his mastery of simple positions. He preferred to only spend time thinking about what he would do in critical positions instead of calculating long variations.
+By learning his style of play, you will be better able to identify critical positions in your own games and learn how to strategize plans which you would then follow through until the end without too many variations.</description>
+    </item>
+    
+    <item>
+      <title>Petrosian</title>
+      <link>https://sumant-eng.github.io/ms/lesson/alekhine/</link>
+      <pubDate>Sun, 13 Sep 2020 11:47:13 +0800</pubDate>
+      
+      <guid>https://sumant-eng.github.io/ms/lesson/alekhine/</guid>
+      <description>Alekhine vs. Euwe, 1937
+  About this course Alexander Alekhine A world champion well known for his fierce and imaginative attacking style that sometimes involves crazy sacrifices.
+What set him apart from other attackers is his ability to sense attacking chances in a position that may seem completely docile for others. An explanation offered by Réti was, &amp;ldquo;he beats his opponents by analysing simple and apparently harmless sequences of moves in order to see whether at some time or another at the end of it an original possibility, and therefore one difficult to see, might be hidden.</description>
+    </item>
+    
+    <item>
+      <title>Morphy</title>
+      <link>https://sumant-eng.github.io/ms/lesson/morphy/</link>
+      <pubDate>Wed, 09 Sep 2020 12:39:53 +0800</pubDate>
+      
+      <guid>https://sumant-eng.github.io/ms/lesson/morphy/</guid>
+      <description>Morphy vs Lowenthal, 1858
+  About this course Paul Morphy You must attend the course &amp;ldquo;How to play like Paul Morphy&amp;rdquo; if you are a beginner to the game of chess or are just a big fan of his style of play! Learning his style will educate you to be a player with the healthiest and strongest fundamentals in chess.
+I have not yet come across a chess protegee that has not heard of the genius of Paul Morphy.</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://sumant-eng.github.io/ms/blog/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sumant-eng.github.io/ms/blog/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>https://sumant-eng.github.io/ms/blog/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sumant-eng.github.io/ms/blog/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>https://sumant-eng.github.io/ms/blog/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sumant-eng.github.io/ms/blog/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de
+pectora summo. Redit teque digerit hominumque toris verebor lumina non cervice
+subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc
+caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis
+lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://sumant-eng.github.io/ms/blog/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sumant-eng.github.io/ms/blog/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>https://sumant-eng.github.io/ms/blog/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sumant-eng.github.io/ms/blog/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
