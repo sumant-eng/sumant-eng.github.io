@@ -7,10 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>FM Sumant</copyright>
-    <lastBuildDate>Mon, 28 Sep 2020 19:53:01 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://sumant-eng.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Be Good at Math, Simple Techniques!</title>
+      <link>https://sumant-eng.github.io/blog/good-at-math/</link>
+      <pubDate>Fri, 30 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sumant-eng.github.io/blog/good-at-math/</guid>
+      <description>Be Good at Math, Simple Techniques!   Many students feel they are not good at mathematics. It&amp;rsquo;s true, but only if you think it is!
+As a Rotocraft Engineer and a lecturer for engineering students, being good at mathematics is not an option. I have to solve engineering problems almost every day.
+When I was in primary school, I was fortunate not trapped in the myth that math is hard.</description>
+    </item>
     
     <item>
       <title>Online</title>
@@ -98,17 +109,6 @@ What set him apart from other attackers is his ability to sense attacking chance
       <description>Morphy vs Lowenthal, 1858
   About this course Paul Morphy You must attend the course &amp;ldquo;How to play like Paul Morphy&amp;rdquo; if you are a beginner to the game of chess or are just a big fan of his style of play! Learning his style will educate you to be a player with the healthiest and strongest fundamentals in chess.
 I have not yet come across a chess protegee that has not heard of the genius of Paul Morphy.</description>
-    </item>
-    
-    <item>
-      <title>Be Good at Math, Simple Techniques!</title>
-      <link>https://sumant-eng.github.io/blog/good-at-math/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://sumant-eng.github.io/blog/good-at-math/</guid>
-      <description>Be Good at Math, Simple Techniques!   Many students feel they are not good at mathematics. It&amp;rsquo;s true, but only if you think it is!
-As a Rotocraft Engineer and a lecturer for engineering students, being good at mathematics is not an option. I have to solve engineering problems almost every day.
-When I was in primary school, I was fortunate not trapped in the myth that math is hard.</description>
     </item>
     
   </channel>
