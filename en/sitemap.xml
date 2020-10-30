@@ -153,83 +153,38 @@
   </url>
   
   <url>
-    <loc>https://sumant-eng.github.io/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://sumant-eng.github.io/blog/good-at-math/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
-                href="https://sumant-eng.github.io/ms/categories/"
+                href="https://sumant-eng.github.io/ms/blog/good-at-math/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sumant-eng.github.io/categories/"
+                href="https://sumant-eng.github.io/blog/good-at-math/"
                 />
   </url>
   
   <url>
-    <loc>https://sumant-eng.github.io/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://sumant-eng.github.io/tags/math/</loc>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
-                href="https://sumant-eng.github.io/ms/tags/css/"
+                href="https://sumant-eng.github.io/ms/tags/math/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sumant-eng.github.io/tags/css/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://sumant-eng.github.io/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ms"
-                href="https://sumant-eng.github.io/ms/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sumant-eng.github.io/tags/html/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://sumant-eng.github.io/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ms"
-                href="https://sumant-eng.github.io/ms/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sumant-eng.github.io/tags/markdown/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://sumant-eng.github.io/blog/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ms"
-                href="https://sumant-eng.github.io/ms/blog/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sumant-eng.github.io/blog/markdown-syntax/"
+                href="https://sumant-eng.github.io/tags/math/"
                 />
   </url>
   
   <url>
     <loc>https://sumant-eng.github.io/blog/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
@@ -243,23 +198,8 @@
   </url>
   
   <url>
-    <loc>https://sumant-eng.github.io/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ms"
-                href="https://sumant-eng.github.io/ms/categories/syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sumant-eng.github.io/categories/syntax/"
-                />
-  </url>
-  
-  <url>
     <loc>https://sumant-eng.github.io/tags/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
@@ -273,152 +213,16 @@
   </url>
   
   <url>
-    <loc>https://sumant-eng.github.io/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <loc>https://sumant-eng.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="ms"
-                href="https://sumant-eng.github.io/ms/tags/themes/"
+                href="https://sumant-eng.github.io/ms/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sumant-eng.github.io/tags/themes/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://sumant-eng.github.io/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ms"
-                href="https://sumant-eng.github.io/ms/categories/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sumant-eng.github.io/categories/themes/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://sumant-eng.github.io/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ms"
-                href="https://sumant-eng.github.io/ms/tags/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sumant-eng.github.io/tags/privacy/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://sumant-eng.github.io/blog/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ms"
-                href="https://sumant-eng.github.io/ms/blog/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sumant-eng.github.io/blog/rich-content/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://sumant-eng.github.io/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ms"
-                href="https://sumant-eng.github.io/ms/tags/shortcodes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sumant-eng.github.io/tags/shortcodes/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://sumant-eng.github.io/blog/placeholder-text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ms"
-                href="https://sumant-eng.github.io/ms/blog/placeholder-text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sumant-eng.github.io/blog/placeholder-text/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://sumant-eng.github.io/tags/text/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ms"
-                href="https://sumant-eng.github.io/ms/tags/text/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sumant-eng.github.io/tags/text/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://sumant-eng.github.io/blog/math-typesetting/</loc>
-    <lastmod>2019-03-08T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ms"
-                href="https://sumant-eng.github.io/ms/blog/math-typesetting/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sumant-eng.github.io/blog/math-typesetting/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://sumant-eng.github.io/tags/emoji/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ms"
-                href="https://sumant-eng.github.io/ms/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sumant-eng.github.io/tags/emoji/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://sumant-eng.github.io/blog/emoji-support/</loc>
-    <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ms"
-                href="https://sumant-eng.github.io/ms/blog/emoji-support/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://sumant-eng.github.io/blog/emoji-support/"
+                href="https://sumant-eng.github.io/categories/"
                 />
   </url>
   

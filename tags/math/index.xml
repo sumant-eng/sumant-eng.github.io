@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Sumant Chess</title>
-    <link>https://sumant-eng.github.io/ms/blog/</link>
-    <description>Recent content in Posts on Sumant Chess</description>
+    <title>math on Sumant Chess</title>
+    <link>https://sumant-eng.github.io/tags/math/</link>
+    <description>Recent content in math on Sumant Chess</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ms-my</language>
+    <language>en-us</language>
     <copyright>FM Sumant</copyright>
     <lastBuildDate>Tue, 05 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://sumant-eng.github.io/ms/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://sumant-eng.github.io/tags/math/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Be Good at Math, Simple Techniques!</title>
-      <link>https://sumant-eng.github.io/ms/blog/good-at-math/</link>
+      <link>https://sumant-eng.github.io/blog/good-at-math/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://sumant-eng.github.io/ms/blog/good-at-math/</guid>
+      <guid>https://sumant-eng.github.io/blog/good-at-math/</guid>
       <description>Be Good at Math, Simple Techniques!   Many students feel they are not good at mathematics. It&amp;rsquo;s true, but only if you think it is!
 As a Rotacraft Engineer and a lecturer for engineering students, being good at mathematics is not an option. I have to solve engineering problems almost every day.
 When I was in primary school, I was fortunate not trapped in the myth that math is hard.</description>
